@@ -1,9 +1,9 @@
-name: main
+name: Hammad Habib
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "i200864" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "i200864" ]
 
 permissions:
   contents: read
